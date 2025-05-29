@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto Email Responder
 
 An automated Python script that checks for unread emails in your Gmail inbox and sends automatic replies to messages containing urgent keywords.
@@ -102,3 +103,7 @@ If you encounter issues:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# email-handler
+Auto replay emails
+>>>>>>> c87f3ab82f161c2b25f3c5a5a17062d3b791cbf2
