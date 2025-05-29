@@ -1,0 +1,10 @@
+# Python Standard Library Dependencies (no external packages required)
+#
+# This project uses the following standard library modules:
+# - imaplib (for IMAP email operations)
+# - email (for email parsing and handling)
+# - smtplib (for sending emails)
+# - logging (for logging operations)
+# - datetime (for timestamp handling)
+#
+# No pip installations required - all modules are part of Python's standard library
