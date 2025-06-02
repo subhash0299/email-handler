@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Auto Email Responder
 
 An automated Python script that checks for unread emails in your Gmail inbox and sends automatic replies to messages containing urgent keywords.
