@@ -104,6 +104,4 @@ If you encounter issues:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 =======
-# email-handler
-Auto replay emails
->>>>>>> c87f3ab82f161c2b25f3c5a5a17062d3b791cbf2
+
